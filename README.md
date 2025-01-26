@@ -12,7 +12,6 @@ Este proyecto tiene como objetivo analizar la tasa de abandono (churn) de client
 El análisis de churn busca identificar patrones y factores que contribuyen al abandono de clientes.
 El resultado final de este proyecto es un dasboard que permite visualizar métricas calve, análisis descriptivos y gráficos interactivos para comprender mejor el comportamiento de los clientes.
 
-He actualizado la sección de herramientas utilizadas para reflejar los cambios que mencionaste. Si necesitas más modificaciones o quieres añadir algo más, avísame:
 
 ## Herramientas Utilizadas
 
